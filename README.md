@@ -14,33 +14,70 @@ Christopher Fonnesbeck (Vanderbilt University)
 
 **09:30 - 10:45**
 
+*Introduction to machine learning with scikit-learn*
+
+- Data preparation
+- Preprocessing
+
 
 **11:00 - 13:15**
+
+*Unsupervised learning*
+
+- PCA and transformations
+- Clustering
 
 
 **13:15 - 14:15 Lunch**
 
 **14:15 - 16:00**
 
+*Model selection*
+
+- Cross-validation
+- Model evaluation and performance metrics
+
 
 **16:15 - 17:30**
+
+*Supervised Learning*
+
+- Linear regression
+- Logistic regression
+- Non-linear regression
 
 ### Thursday, June 29
 
 **09:30 - 10:45**
 
+*Supervised Learning*
+
+- Support vector machines
+- Decision trees
 
 **11:00 - 13:15**
 
+*Ensemble Supervised Learning*
+
+- Random forests
+- Boosting
 
 **13:15 - 14:15 Lunch**
 
 **14:15 - 16:00**
 
+*Advanced topics*
+
+- Pipelining
+- Feature selection
+
 
 **16:15 - 17:30**
 
+*Advanced topics*
 
+- Text feature extraction
+- Parallelism with Dask
 
 
 ## Prerequisites
