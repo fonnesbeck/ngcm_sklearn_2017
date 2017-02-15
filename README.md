@@ -97,7 +97,7 @@ The following packages should be installed on your system:
 - scipy
 - matplotlib
 - scikit-learn
-- seaborn
+- dask
 
 If you have installed Anaconda, most of these may already be available to you.
 

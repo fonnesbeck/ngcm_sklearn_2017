@@ -1,0 +1,24 @@
+name: sklearn
+
+channels:
+ - conda-forge
+ 
+dependencies:
+- python=3.6
+- dask
+- ipython
+- jupyter
+- notebook
+- ipyparallel
+- ipywidgets
+- joblib
+- jupyter_client
+- jupyter_core
+- jupyter_contrib_nbextensions
+- jupyter_nbextensions_configurator
+- jupyterlab
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- pip
