@@ -6,7 +6,7 @@
 
 ## Instructors
 
-Christopher Fonnesbeck (Vanderbilt University Medical Center) 
+Christopher Fonnesbeck (Vanderbilt University Medical Center)  
 Skipper Seabold (Civis Analytics)
 
 ## Outline
