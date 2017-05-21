@@ -12,7 +12,7 @@ Christopher Fonnesbeck (Vanderbilt University)
 
 ### Wednesday, June 28
 
-**09:30 - 10:45**
+**09:30 - 10:45** (Chris Fonnesbeck)
 
 *Introduction to machine learning with scikit-learn*
 
@@ -20,7 +20,7 @@ Christopher Fonnesbeck (Vanderbilt University)
 - Preprocessing
 
 
-**11:00 - 13:15**
+**11:00 - 13:15** (Chris Fonnesbeck)
 
 *Unsupervised learning*
 
@@ -32,13 +32,13 @@ Christopher Fonnesbeck (Vanderbilt University)
 
 **14:15 - 16:00**
 
-*Model selection*
+*Model selection* (Skipper Seabold)
 
 - Cross-validation
 - Model evaluation and performance metrics
 
 
-**16:15 - 17:30**
+**16:15 - 17:30** (Skipper Seabold)
 
 *Supervised Learning*
 
@@ -50,12 +50,12 @@ Christopher Fonnesbeck (Vanderbilt University)
 
 **09:30 - 10:45**
 
-*Supervised Learning*
+*Supervised Learning* (Chris Fonnesbeck)
 
 - Support vector machines
 - Decision trees
 
-**11:00 - 13:15**
+**11:00 - 13:15** (Chris Fonnesbeck)
 
 *Ensemble Supervised Learning*
 
@@ -64,7 +64,7 @@ Christopher Fonnesbeck (Vanderbilt University)
 
 **13:15 - 14:15 Lunch**
 
-**14:15 - 16:00**
+**14:15 - 16:00** (Skipper Seabold)
 
 *Advanced topics*
 
@@ -72,7 +72,7 @@ Christopher Fonnesbeck (Vanderbilt University)
 - Feature selection
 
 
-**16:15 - 17:30**
+**16:15 - 17:30** (Skipper Seabold)
 
 *Advanced topics*
 
