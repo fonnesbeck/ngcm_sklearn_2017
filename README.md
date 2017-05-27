@@ -33,19 +33,19 @@ Skipper Seabold (Civis Analytics)
 
 **14:15 - 16:00**
 
+*Supervised Learning* (Skipper Seabold)
+
+- Support vector machines
+- Decision trees
+- Random forests
+
+**16:15 - 17:30** 
+
 *Model selection* (Skipper Seabold)
 
 - Cross-validation
 - Model evaluation and performance metrics
 
-
-**16:15 - 17:30** (Skipper Seabold)
-
-*Supervised Learning*
-
-- Linear regression
-- Logistic regression
-- Non-linear regression
 
 ### Thursday, June 29
 
@@ -53,15 +53,16 @@ Skipper Seabold (Civis Analytics)
 
 *Supervised Learning* (Chris Fonnesbeck)
 
-- Support vector machines
-- Decision trees
+- Linear regression
+- Logistic regression
+- Non-linear regression
 
 **11:00 - 13:15** (Chris Fonnesbeck)
 
 *Ensemble Supervised Learning*
 
-- Random forests
 - Boosting
+- Regression trees
 
 **13:15 - 14:15 Lunch**
 
@@ -116,9 +117,9 @@ and install everything using `conda`:
 
     conda config --add channels conda-forge
     conda env create -f environment.yml
-    
+
 This will create an **environment** called `ngcm` that includes the packages required for the course.    
-    
+​    
 If you are not using the Anaconda Python distribution, you will need to manually install the packages listed in `environment.yml` using `pip`.
 
 Which you probably don't want to do.
