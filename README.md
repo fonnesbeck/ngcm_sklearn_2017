@@ -11,7 +11,7 @@ Skipper Seabold (Civis Analytics)
 
 ## Outline
 
-### Wednesday, June 28
+### Thursday, June 29
 
 **09:30 - 10:45** (Chris Fonnesbeck)
 
@@ -47,7 +47,7 @@ Skipper Seabold (Civis Analytics)
 - Model evaluation and performance metrics
 
 
-### Thursday, June 29
+### Friday, June 30
 
 **09:30 - 10:45**
 
