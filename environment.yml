@@ -21,4 +21,5 @@ dependencies:
 - pandas
 - scikit-learn
 - scipy
+- xlrd
 - pip
