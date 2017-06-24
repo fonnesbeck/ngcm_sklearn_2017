@@ -17,16 +17,15 @@ Skipper Seabold (Civis Analytics)
 
 *Introduction to machine learning with scikit-learn*
 
-- Data preparation
-- Preprocessing
-
+- 1.a) [Introduction](notebooks/1a-Scikit-Learn.ipynb)
+- 1.b) [Data preparation and preprocessing](notebooks/1b-Data-Preprocessing.ipynb)
 
 **11:00 - 13:15** (Chris Fonnesbeck)
 
 *Unsupervised learning*
 
-- PCA and transformations
-- Clustering
+- 1.c) [PCA and transformations](notebooks/1c-Dimensionality-Reduction.ipynb)
+- 1.d) [Clustering](notebooks/1d-Clustering.ipynb)
 
 
 **13:15 - 14:15 Lunch**
@@ -35,17 +34,14 @@ Skipper Seabold (Civis Analytics)
 
 *Supervised Learning* (Skipper Seabold)
 
-- Support vector machines
-- Decision trees
-- Random forests
+- 2.a) [Support vector machines](notebooks/2a-Support-Vector-Machines.ipynb)
+- 2.b) [Decision trees and Random Forests](notebooks/2b-Decision-Trees-and-Random-Forests.ipynb)
 
 **16:15 - 17:30** 
 
 *Model selection* (Skipper Seabold)
 
-- Cross-validation
-- Model evaluation and performance metrics
-
+- 2.c) [Model selection and validation](notebooks/2c-Model-selection-and-validation.ipynb)
 
 ### Friday, June 30
 
@@ -53,16 +49,15 @@ Skipper Seabold (Civis Analytics)
 
 *Supervised Learning* (Chris Fonnesbeck)
 
-- Linear regression
-- Logistic regression
-- Non-linear regression
+- 3.a) [Linear regression](notebooks/3a-Regression-Analysis.ipynb)
+- 3.b) [Logistic regression](3a-Regression-Analysis-ipynb)
 
 **11:00 - 13:15** (Chris Fonnesbeck)
 
 *Ensemble Supervised Learning*
 
-- Boosting
-- Regression trees
+- 3.c) [Boosting](notebooks/4a-Boosting.ipynb)
+- 3.d) [Gaussian processes](notebooks/4b-Gaussian-Processes.ipynb)
 
 **13:15 - 14:15 Lunch**
 
@@ -70,16 +65,16 @@ Skipper Seabold (Civis Analytics)
 
 *Advanced topics*
 
-- Pipelining
-- Feature selection
+- 4.a) Pipelining
+- 4.b) Feature selection
 
 
 **16:15 - 17:30** (Skipper Seabold)
 
 *Advanced topics*
 
-- Text feature extraction
-- Parallelism with Dask
+- 4.c) Text feature extraction
+- 4.d) Big Data Strategies
 
 
 ## Prerequisites
