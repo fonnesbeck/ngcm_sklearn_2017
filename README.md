@@ -73,7 +73,7 @@ Skipper Seabold (Civis Analytics)
 *Advanced topics*
 
 - 4.c) Text feature extraction
-- 4.d) Big Data Strategies
+- 4.d) [Big Data Strategies](notebooks/5b-Big-Data-Strategies.ipynb)
 
 
 ## Prerequisites
