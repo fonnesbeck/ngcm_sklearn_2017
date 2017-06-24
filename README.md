@@ -68,7 +68,6 @@ Skipper Seabold (Civis Analytics)
 - 4.a) Pipelining
 - 4.b) Feature selection
 
-
 **16:15 - 17:30** (Skipper Seabold)
 
 *Advanced topics*
