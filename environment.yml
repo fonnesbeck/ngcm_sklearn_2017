@@ -17,9 +17,11 @@ dependencies:
 - jupyter_contrib_nbextensions
 - jupyter_nbextensions_configurator
 - jupyterlab
+- matplotlib
 - numpy
 - pandas
 - scikit-learn
 - scipy
+- seaborn
 - xlrd
 - pip
