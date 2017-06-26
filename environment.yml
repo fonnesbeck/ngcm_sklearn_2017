@@ -1,27 +1,25 @@
-name: sklearn
-
-channels:
- - conda-forge
- 
+name: ngcm
 dependencies:
 - python=3.6
+- cython
 - dask
 - ipython
-- jupyter
-- notebook
-- ipyparallel
 - ipywidgets
-- joblib
-- jupyter_client
-- jupyter_core
-- jupyter_contrib_nbextensions
-- jupyter_nbextensions_configurator
-- jupyterlab
+- jupyter
+- line_profiler
 - matplotlib
+- notebook
+- numba 
+- numexpr
 - numpy
 - pandas
+- pandas-datareader
+- pip
+- pprofile
+- pyzmq
 - scikit-learn
 - scipy
 - seaborn
-- xlrd
-- pip
+- snakeviz
+- sympy
+
