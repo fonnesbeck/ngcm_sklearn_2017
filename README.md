@@ -112,7 +112,7 @@ and install everything using `conda`:
     conda config --add channels conda-forge
     conda env create -f environment.yml
 
-This will create an **environment** called `ngcm` that includes the packages required for the course.    
+This will create an **environment** called `sklearn` that includes the packages required for the course.    
 ​    
 If you are not using the Anaconda Python distribution, you will need to manually install the packages listed in `environment.yml` using `pip`.
 
@@ -122,4 +122,4 @@ So install Anaconda.
 
 To use the environment, you may type:
 
-    source activate ngcm
+    source activate sklearn
