@@ -66,7 +66,7 @@ Skipper Seabold (Civis Analytics)
 *Advanced topics*
 
 - 4.a) [Pipelining](notebooks/4a-Pipelines.ipynb)
-- 4.b) Feature selection
+- 4.b) [Feature selection](notebooks/4b-Feature-Selection)
 
 **16:15 - 17:30** (Skipper Seabold)
 
