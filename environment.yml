@@ -22,4 +22,4 @@ dependencies:
 - seaborn
 - snakeviz
 - sympy
-
+- xlrd
